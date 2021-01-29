@@ -1,0 +1,7 @@
+pytest==4.6.5
+pytest-cov
+pymysql
+boto3
+flake8
+moto
+pytest-mock
